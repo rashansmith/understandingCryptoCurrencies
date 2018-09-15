@@ -1,2 +1,2 @@
-# understandingCryptoCurrencies
-A repository to host files that I use whilst learning about BlockChain, SmartContracts, etc.
+# understanding CryptoCurrencies
+Code produced during my journey to understanding BlockChain, SmartContracts, etc.
